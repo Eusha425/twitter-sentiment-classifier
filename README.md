@@ -115,4 +115,4 @@ twitter-sentiment-classifier/
 Feel free to fork the project and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Eusha425/twitter-sentiment-classifier/blob/main/LICENSE) file for details.
