@@ -113,4 +113,4 @@ twitter-sentiment-classifier/
 
 
 ## Licence
-This project is licenced under the MIT licence - see the [licence](https://github.com/Eusha425/twitter-sentiment-classifier/blob/main/license) file for details.
+This project is licenced under the MIT licence - see the [licence](https://github.com/Eusha425/twitter-sentiment-classifier/blob/main/LICENSE) file for details.
